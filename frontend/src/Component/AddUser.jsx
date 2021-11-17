@@ -7,7 +7,7 @@ const initialValue = {
     name: '',
     property: '',
     size: '',
-    phone: ''
+    phone: '',
 }
 
 const useStyles = makeStyles({
